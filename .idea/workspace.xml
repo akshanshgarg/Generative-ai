@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="941aa61c-1b52-4e0e-9033-238866341563" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/chatbot/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/localama.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/localama.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
