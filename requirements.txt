@@ -1,9 +1,6 @@
-pandas
-numpy
-seaborn
-scikit-learn
-catboost
-dill
-xgboost
-Flask
--e .
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+
