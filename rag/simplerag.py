@@ -43,8 +43,19 @@ split_document = text_splitter.split_documents(docs)
 
 print(split_document[:2])
 
+persist_directory = "./vector_store"
+
 ## Vector Embedding And Vector Store
 embeddings = OllamaEmbeddings(model='llama3')
-db = Chroma.from_documents(split_document[:10], embeddings)
 
+# db = Chroma.from_documents(split_document[:15], embeddings, persist_directory=persist_directory)
+# db.persist()
+# print(f"Vector store saved at {persist_directory}")
+
+db = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
 print(db)
+print("Vector store loaded!")
+
+query = "Who are the authors of attention is all you need"
+retireved_results = db.similarity_search(query)
+print(retireved_results[0].page_content)
