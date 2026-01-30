@@ -28,7 +28,7 @@ if "vector" not in st.session_state:
 st.title("Chat Groq Demo")
 llm = ChatGroq(groq_api_key=groq_api_key,
                model_name='mixtral-8x7b-32768')
-
+  
 prompt = ChatPromptTemplate.from_template(
     '''
     Answer the question based on provided context only.
