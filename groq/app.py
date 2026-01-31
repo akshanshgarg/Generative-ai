@@ -13,7 +13,7 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-# Load Qroq api key
+# Load Qroq api key3
 groq_api_key = os.environ['GROQ']
 
 if "vector" not in st.session_state:
