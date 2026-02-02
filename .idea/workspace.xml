@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="941aa61c-1b52-4e0e-9033-238866341563" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Generative-ai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Generative-ai.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/groq/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/groq/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
