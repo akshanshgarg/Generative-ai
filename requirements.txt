@@ -18,3 +18,4 @@ beautifulsoup4
 langchain-groq
 sentence_transformers
 scikit-learn
+typesense

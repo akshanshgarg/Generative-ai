@@ -1,0 +1,93 @@
+Enterprise leaders have spent the last two years building the case for agentic AI. Proof of concepts. Pilots. Internal demos that impress the room. And a lot of that work has been promising.
+
+But what I keep hearing from customers is that the gap between an AI pilot that works and a process that runs in production is wider than anyone expected. The technology isn't the problem. The challenge is getting AI to operate reliably across the complex, high-stakes processes that actually run a business.
+
+Customers don't just want platforms. They want outcomes. And building an end-to-end agentic process from scratch—even with great tools—takes time, domain expertise, and significant effort to implement, evaluate, and control the results to ensure predictability. The patterns are well known. The processes, while complex and dynamic, are repeatable. What's been missing is a faster, safer path from platform capability to business result.
+
+That's why at the 2026 Agentic AI Summit, we launched UiPath Solutions—purpose-built agentic solutions, by industry and department, that combine AI agents, automations, orchestration, document processing, and integrations into governed, end-to-end workflows. They're designed to meet employees where they already work—not ripping and replacing systems, but giving teams a new experience powered by agentic capabilities that transforms how the process runs. Production-grade, co-developed with customers and industry leaders, and ready to deploy now.
+
+We launched solutions across key processes within finance and accounting, financial services, healthcare, manufacturing, and retail. I'll spotlight one from each area here—but each spans multiple solutions, and the breakout sessions go much deeper.
+
+Watch them on demand.
+
+Finance and accounting: purchase to pay
+Let's start with a process every organization deals with: paying invoices.
+
+In a modern finance organization, 90% of invoices should go straight through to payment processing. There should be a single system managing intake, matching, exceptions, approvals, and payment. Instead, up to 75% of invoices still require manual intervention. The average cycle time is 17 days. Best-in-class organizations operate at three—but even that is too long, and we believe we can do significantly better.
+
+This is exactly what we're hearing from customers. They've automated pieces of accounts payable, and those automations work—but they don't go end to end. With our agentic solution, they can move from automating fragments to automating and orchestrating the whole process, from intake to resolution.
+
+Our purchase-to-pay solution focuses on the two biggest pressure points: guided buying, so that requests are compliant and connected cleanly to purchase orders (POs), and invoice processing, where mismatches, exceptions, and approval delays create unnecessary friction, manual work, and longer cycle times. For many customers, this is also a clear opportunity to use AI to reduce costs, given the high volumes and transactional nature of the process.
+
+UiPath is already a market leader in vendor invoice processing—companies like Canon and Thermo Fisher Scientific use our intelligent document processing (IDP) and RPA capabilities to extract invoice data and match POs today. This solution goes further, orchestrating the rest of the process so approvals move quickly, exception handling is automated, controls stay intact, and finance teams have real-time visibility into spend before it hits the ledger.
+
+The result: faster cycle times, fewer late payments, and, most importantly, lower cost per transaction.
+
+Financial services: from lending to compliance
+Financial services is one of the most regulated industries in the world, and the processes that keep it running—from originating a loan to investigating a suspicious transaction—are exactly the kind of complex, rule-based, and policy driven workflows where agentic automation can deliver the most value.
+
+For financial crime compliance (FCC), we're building on deep domain expertise gained through our acquisition of WorkFusion, a pioneer in AI agents for FCC, already deployed at top banks and other financial institutions globally. WorkFusion's prebuilt AI agents automate the most labor-intensive aspects of FinCrime Compliance operations, from anti-money laundering (AML) and sanctions screening to know your customer (KYC) and adverse media monitoring. Combined with UiPath orchestration and governance capabilities, these AI agents handle alert triage, narrative reporting, and escalation, dramatically reducing the time from alert to resolution while strengthening compliance outcomes.
+
+Since implementing an AI agent for Transaction Screening Alert Review, we’ve automated 61% of sanction hit reviews and are handling an average of 14,000 alerts monthly, freeing up branch and operations resources, enabling faster payments, and improving the employee experience."
+
+Onni Chan, Sanctions Compliance Manager, Valley National Bank
+
+Transaction Alert Review - UiPath financial crime compliance solution demo
+For loan origination, our solution focuses on where the process actually breaks down, the quality and completeness of application data upfront, and the compliance review of loan documentation before it moves forward. It brings together intake, validation, underwriting support, and quality review, with automation that surfaces exceptions and flags where remediation is needed rather than relying on full manual review. The result is faster cycle times, higher throughput, and a better borrower experience, with full auditability throughout. And like all of our solutions, it complements existing systems of record rather than replacing them.
+
+By partnering with UiPath, it has allowed us to uncover valuable opportunities for automation within our home equity process. We’re grateful to work alongside a partner with UiPath’s strong reputation and are excited about how their automation solutions can further benefit our members at LMCU.”
+
+Julie Oziemkiewicz, Director of Home Equity, LMCU
+
+UiPath Solution for Loan Origination QA-QC demo
+These are just two of the financial services solutions we're bringing to market. There's more to explore in the financial services breakout session.
+
+Watch the session on demand.
+
+Healthcare: transforming the revenue cycle
+Healthcare runs on documents—clinical notes, insurance forms, medical records, authorization requests. The administrative burden is staggering, and it directly impacts both revenue and patient experience.
+
+The UiPath Solution for medical record summarization accurately extracts, structures, and summarizes clinical information from complex medical records at speed. It handles the full range of clinical document types and delivers the structured data that downstream processes depend on—giving healthcare teams a faster, more reliable way to transform clinical data into the operational form required to manage the revenue cycle.
+
+From there, our Prior Authorization solution cuts the administrative burden by automating eligibility and benefits validation, mapping clinical data to medical-necessity rules, routing requests for review based on complexity, and providing real-time status updates to providers. And our Claim Denial Prevention and Resolution solution reduces medical claim denials and write-offs by automatically detecting root causes, triggering corrective actions, and orchestrating appeals to protect revenue and tighten compliance.
+
+Together, these three solutions address some of the most time-consuming and costly processes in healthcare revenue cycle management—with the governance and audit trails that regulated environments require.
+
+Since implementing the UiPath Solution for medical record summarization, we've reduced the average summary review time from 70 minutes to six, a 90% improvement. Our clinicians are spending more time on direct patient care and less time digging through documentation. The structured output and citations give us confidence in what we're reviewing."
+
+Benjamin Smith, Vice President of Technology, medlitix
+
+UiPath Solution for medical records summarization demo 
+Manufacturing: from inventory to pricing
+Manufacturing operations depend on precision—the right materials in the right place at the right time, and pricing that reflects real costs and market conditions. When these processes rely on manual coordination and disconnected systems, errors compound and margins suffer.
+
+Our inventory management solution gives manufacturing teams real-time visibility and control over demand, service, inventory levels, and what to buy, make, or move—orchestrating the flow of information across planning, procurement, and production systems.
+
+Our commercial pricing solution brings the same level of orchestration to pricing workflows, ensuring that pricing decisions reflect up-to-date cost inputs, contractual terms, and market dynamics—accompanied by end-to-end automation.
+
+For organizations managing complex supply chains, these solutions also improve coordination across suppliers, logistics, and distribution—maintaining the throughput and visibility that global operations require.
+
+We’ve been huge believers in AI to optimize the performance of our operations and commercial activities for several years. Now, with the advances in agentic AI, we can take this even further. Our vision is to have specialized AIs, such as commercial pricing, working alongside our teams to optimize every price we set. This ensures our customers always get the best possible offer and service from Speedy.
+
+George Foster-Jones, Commercial Finance Director, Speedy Hire
+
+The UiPath Solution for commercial pricing demo
+Retail: smarter merchandising decisions at scale
+Retailers operate in a high-margin pressure environment where slow or fragmented decisions compound fast. From pricing to markdown to inventory exposure, merchandising sits at the financial core of retail—shaping margin, working capital, and brand perception with every call that gets made. Our merchandising solution helps teams connect pricing intelligence, elasticity modeling, and inventory visibility into a single, connected view—automating repetitive work while keeping people in control of the decisions that require commercial judgment.
+
+As a digital-first retailer, we’re embracing AI to make smarter, faster decisions that simplify our operations and enhance the customer experience. This technology will transform how we manage stock and pricing—especially during the busy festive season—and help us continue to deliver great value and service across all our brands.
+
+Dan Finley, CEO, Debenhams Group
+
+UiPath Solution for merchandising
+Built for the enterprise
+Every solution we launched shares a common foundation: UiPath Maestro™ and agentic business orchestration.
+
+Maestro manages long-running processes—the kind that span days, weeks, or months—without ever losing state. It handles exceptions, provides full governance and visibility, and keeps humans in control where it matters. Whether the process follows a defined workflow or moves dynamically through stages and escalations, Maestro orchestrates it reliably.
+
+This is especially critical in regulated industries. The real challenge with deploying AI in the enterprise isn't building intelligence. It's ensuring that intelligence operates within a governed, durable process—one that runs correctly every time, with the auditability, compliance, and human oversight that production environments demand. That's what these solutions are built to deliver.
+
+Go deeper
+The solutions we launched are production-ready, and they represent what's possible when deep platform capability meets real domain expertise. This portfolio will keep growing—we're investing in new solutions based on what we're learning from customers and where we can deliver the most measurable business impact.
+
+Watch the breakout sessions on demand—there's significantly more depth on each solution than I can cover here, and seeing them in action is the best way to understand what they can do for your business.
